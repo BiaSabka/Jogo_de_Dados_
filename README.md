@@ -1,2 +1,3 @@
-# Jogo_de_Dados_
- Código em C, Alunos: Bianca Sabka & Eduardo Guimarães
+# Jogo_de_Dados
+ Código em C
+ Alunos: Bianca Sabka & Eduardo Guimarães
